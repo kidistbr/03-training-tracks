@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Kidist Berhanu
 
-Track Name: 
+Track Name: Backend Node.js
 
-Track Description: 
+Track Description: Backend Node.js
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
